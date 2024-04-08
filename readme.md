@@ -17,11 +17,11 @@ Update the postgre sql details in settings.py -
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'railway', 
-        'USER': 'postgres',
-        'PASSWORD': 'YkBGQUwAHbgjgFnGroGJNNCSUVmKYRRm',
-        'HOST': 'roundhouse.proxy.rlwy.net', 
-        'PORT': '11617',
+        'NAME': '', 
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '', 
+        'PORT': '',
     }
 }
 
